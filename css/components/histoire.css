@@ -1,0 +1,32 @@
+.container4 {
+    display: flex; 
+    align-items: center; 
+    background-color: #1A413D; 
+    color: #F1EFE7;
+    padding: 75px; 
+}
+
+.histoire-text {
+    flex: 1; 
+    padding-right: 20px; 
+}
+
+.histoire-text h2 {
+    font-size: 24px; 
+    margin-bottom: 10px; 
+}
+
+.histoire-text p {
+    font-size: 16px; 
+    line-height: 1.6; 
+}
+
+.histoire-img {
+    flex: 1; 
+}
+
+.histoire-img img {
+    max-width: 100%; 
+    display: block; 
+    border-radius: 10px; 
+}
